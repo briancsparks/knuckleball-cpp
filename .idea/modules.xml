@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/knuckleball-cpp.iml" filepath="$PROJECT_DIR$/.idea/knuckleball-cpp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/knuckleball_cpp.iml" filepath="$PROJECT_DIR$/.idea/knuckleball_cpp.iml" />
     </modules>
   </component>
 </project>
